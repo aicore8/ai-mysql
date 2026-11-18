@@ -8,7 +8,7 @@
   "author": {
     "name": "TGIANN"
   },
-  "repository": "github:aifivem/ai-mysql",
+  "repository": "github:aicore8/ai-mysql",
   "type": "module",
   "fxDependencies": [
     "/server:12913"
@@ -21,11 +21,11 @@
     "typecheck": "tsc --noEmit -p resource/server/tsconfig.json"
   },
   "dependencies": {
-    "@aifivem/lib": "workspace:*",
-    "@aifivem/mysql": "workspace:*"
+    "@aicore8/lib": "workspace:*",
+    "@aicore8/mysql": "workspace:*"
   },
   "devDependencies": {
-    "@aifivem/build": "workspace:*",
+    "@aicore8/build": "workspace:*",
     "@citizenfx/client": "latest",
     "@citizenfx/server": "latest",
     "@types/bun": "latest",

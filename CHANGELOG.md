@@ -1,41 +1,41 @@
 # Changelog
 
-## [0.1.5](https://github.com/aifivem/ai-mysql/compare/v0.1.4...v0.1.5) (2026-11-02)
+## [0.1.5](https://github.com/aicore8/ai-mysql/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
 ### Documentation
 
-* install from the release zip ([38063db](https://github.com/aifivem/ai-mysql/commit/38063dbe0143736cfccc5608dbeeebb358f307ed))
+* install from the release zip ([38063db](https://github.com/aicore8/ai-mysql/commit/38063dbe0143736cfccc5608dbeeebb358f307ed))
 
 
 ### Miscellaneous Chores
 
-* build files are no longer in git, the release zip carries them ([f1c15b1](https://github.com/aifivem/ai-mysql/commit/f1c15b1f91de87e03c9609fdf930ee8fa8d61c3f))
+* build files are no longer in git, the release zip carries them ([f1c15b1](https://github.com/aicore8/ai-mysql/commit/f1c15b1f91de87e03c9609fdf930ee8fa8d61c3f))
 
-## [0.1.4](https://github.com/aifivem/ai-mysql/compare/v0.1.3...v0.1.4) (2026-11-02)
+## [0.1.4](https://github.com/aicore8/ai-mysql/compare/v0.1.3...v0.1.4) (2026-11-02)
 
 
 ### Code Refactoring
 
-* import the shared packages from [@aifivem](https://github.com/aifivem) ([6c6686c](https://github.com/aifivem/ai-mysql/commit/6c6686c3edd2de713c3c850ec2d4977370acc811))
+* import the shared packages from [@aicore8](https://github.com/aicore8) ([6c6686c](https://github.com/aicore8/ai-mysql/commit/6c6686c3edd2de713c3c850ec2d4977370acc811))
 
-## [0.1.3](https://github.com/aifivem/ai-mysql/compare/v0.1.2...v0.1.3) (2026-11-01)
+## [0.1.3](https://github.com/aicore8/ai-mysql/compare/v0.1.2...v0.1.3) (2026-11-01)
 
 
 ### Code Refactoring
 
-* feature folders, side entries that only import, panel schema per tab ([fbacd86](https://github.com/aifivem/ai-mysql/commit/fbacd86aca26031315044f95d97d873093f58344))
+* feature folders, side entries that only import, panel schema per tab ([fbacd86](https://github.com/aicore8/ai-mysql/commit/fbacd86aca26031315044f95d97d873093f58344))
 
-## [0.1.2](https://github.com/aifivem/ai-mysql/compare/v0.1.1...v0.1.2) (2026-10-31)
-
-
-### Miscellaneous Chores
-
-* rebuild with the current lib ([4ab6349](https://github.com/aifivem/ai-mysql/commit/4ab63499778bb00838c4e05198352d72f96f6449))
-
-## [0.1.1](https://github.com/aifivem/ai-mysql/compare/v0.1.0...v0.1.1) (2026-10-31)
+## [0.1.2](https://github.com/aicore8/ai-mysql/compare/v0.1.1...v0.1.2) (2026-10-31)
 
 
 ### Miscellaneous Chores
 
-* rebuild with the current lib ([00417fe](https://github.com/aifivem/ai-mysql/commit/00417fe481dabe8e453c3ae55bcf7dca13881880))
+* rebuild with the current lib ([4ab6349](https://github.com/aicore8/ai-mysql/commit/4ab63499778bb00838c4e05198352d72f96f6449))
+
+## [0.1.1](https://github.com/aicore8/ai-mysql/compare/v0.1.0...v0.1.1) (2026-10-31)
+
+
+### Miscellaneous Chores
+
+* rebuild with the current lib ([00417fe](https://github.com/aicore8/ai-mysql/commit/00417fe481dabe8e453c3ae55bcf7dca13881880))
